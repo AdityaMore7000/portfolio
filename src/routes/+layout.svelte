@@ -10,9 +10,9 @@
         document.body.scrollIntoView();
     }
 </script>
-<svelte:header>
+<svelte:head>
     <title>Portfolio | Aditya More</title>
-</svelte:header>
+</svelte:head>
 <div
     class="container relative flex flex-col max-w-[1400px] mx-auto w-full text-sm sm:text-base min-h-screen"
 >
